@@ -3,3 +3,4 @@
   fetch pull
 - GO 환경 셋업
   go 컴파일러 설치
+conflict 츠러블 슈팅
